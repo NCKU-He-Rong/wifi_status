@@ -1,3 +1,13 @@
 {
-    "ros.distro": "noetic"
+    "ros.distro": "noetic",
+    "python.autoComplete.extraPaths": [
+        "/home/lio/Desktop/thirdparty/visionopencv_ws/devel/lib/python3/dist-packages",
+        "/home/lio/Desktop/thirdparty/ws_livox/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/lio/Desktop/thirdparty/visionopencv_ws/devel/lib/python3/dist-packages",
+        "/home/lio/Desktop/thirdparty/ws_livox/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
 }

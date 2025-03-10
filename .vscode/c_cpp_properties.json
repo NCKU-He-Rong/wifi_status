@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lio/Desktop/thirdparty/ws_livox/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/lio/Desktop/thirdparty/visionopencv_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/lio/Desktop/thirdparty/visionopencv_ws/src/vision_opencv/image_geometry/include/**",
+        "/home/lio/Desktop/Project/PtStream_ws/src/wifi_status/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

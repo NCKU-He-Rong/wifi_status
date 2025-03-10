@@ -91,7 +91,7 @@ int main(int argc, char **argv)
     float rssi, tx_bitrate, rx_bitrate;
     
     // define the rate
-    ros::Rate rate(10);
+    ros::Rate rate(1);
     while (ros::ok())
     {
         // get the wifi status
